@@ -1,6 +1,7 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+@import "@fontsource-variable/readex-pro";
 
 :root {
   --color-brand-green: #b2cd54;
@@ -10,7 +11,7 @@
 }
 
 body {
-  font-family: "Figtree", sans-serif;
+  font-family: "Readex Pro Variable", "Figtree", sans-serif;
 }
 
 h1,

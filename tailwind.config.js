@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Inter Tight", "sans-serif"],
+        sans: ["Figtree", "sans-serif"],
+        heading: ["Raleway", "sans-serif"],
+        readex: ["Readex Pro Variable", "sans-serif"],
       },
       colors: {
         brand: {
