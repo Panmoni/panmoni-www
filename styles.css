@@ -11,7 +11,8 @@
 }
 
 body {
-  font-family: "Readex Pro Variable", "Figtree", sans-serif;
+  font-family: "Figtree", sans-serif;
+  font-weight: 300;
 }
 
 h1,
